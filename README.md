@@ -12,7 +12,7 @@
 
 <p>
   
-Hi 👋, I am **Abhiram Krishna** Tech-savvy professional with a Bachelor’s in Economics & Media Studies and experience in administrative support, customer service, and digital content creation. ✨
+Hi 👋, I am **Abhiram Krishna**, a Designer, Economist, Urban Development researcher and an AI enthusiast with a Bachelor’s in Economics & Media Studies and experience in Designing, administrative support, and digital content creation. ✨
 
 <div>
 <details>
