@@ -1,58 +1,66 @@
-<a href="https://www.linkedin.com/in/abhiramkrishna15/"><img src="https://media.giphy.com/media/9eSry0XW67cOi196CM/giphy.gif" width="100%" height="auto"/></a>
-<p align="center">
-  <a href="https://x.com/abhiramkriss"><img width="32px" alt="Twitter" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/500px-X_logo_2023_%28white%29.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/abhiramkrishna15/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_abhiram__krishna_/"><img width="32px" alt="Insta" title="Instagram" src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-white-PNG-large-size.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-<br/>
-
-<p>
-  
-Hi 👋, I am **Abhiram Krishna**, a Designer, Economist, Urban Development researcher and an AI enthusiast with a Bachelor’s in Economics & Media Studies and experience in Designing, administrative support, and digital content creation. ✨
-
-<div>
-<details>
-  <summary>🧑 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 💬 Talk with me about **AI, Design, UI/UX, Tech**
-
-- 📫 Reach me out at **abhiramkrishna15@gmail.com**
-
-</details>
-  
-</p>
-  
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
+<div align="center">
+<a href="https://www.linkedin.com/in/abhiramkrishna15/">
+<img src="https://media.giphy.com/media/9eSry0XW67cOi196CM/giphy.gif" width="100%" style="border-radius: 10px;" alt="Welcome Banner"/>
+</a>
 </div>
--->
 
-## 🔥 Github Stats
+<h1 align="center">Hi 👋, I am Abhiram Krishna</h1>
+<h3 align="center">Designer • Economist • Urban Development Researcher • AI Enthusiast</h3>
 
-<img align="right" width="38%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU3M2ZtNng0eWl3dm1pa2h5b294OXRjZ3duMzk0ZWhxZGlyemozdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif"/>
-
-  <a href="https://github.com/abhiramkrishna"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhiramkrishna&theme=tokyonight&title_color=ff3068?"></a>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhiramkrishna&theme=tokyonight-duo" alt="GitHub Streak" /></a>
- 
-
-<p align="left">
-  <a href="https://github.com/abhiramkrishna?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<p align="center">
+<a href="https://x.com/abhiramkriss" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/X_Twitter-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/abhiramkrishna15/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/abhiram__krishna/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:abhiramkrishna15@gmail.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+</a>
 </p>
-<p align="right">
-  <a href="https://github.com/Giingu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/abhiramkrishna?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
+<p align="center">
+I have a Bachelor’s in <b>Economics & Media Studies</b> and experience in <b>Designing, administrative support, and digital content creation</b>. ✨
+</p>
+
+<details>
+<summary><b>🧑 More about me (Click to expand)</b></summary>
+
+
+
+
+🔭 I’m currently on a journey to build great things.
+
+🌱 I’m currently learning everything 🤓.
+
+🤝 I’m looking for help with finding projects to contribute to!
+
+💬 Talk with me about AI, Design, UI/UX, Tech.
+
+📫 Reach me out at abhiramkrishna15@gmail.com.
+
+</details>
+
+🔥 GitHub Stats
+
+<div align="center">
+<a href="https://github.com/abhiramkrishna">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dabhiramkrishna%26theme%3Dtokyonight%26title_color%3Dff3068%26show_icons%3Dtrue%26hide_border%3Dtrue" alt="Abhiram's GitHub Stats" width="48%" />
+</a>
+<a href="https://git.io/streak-stats">
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dabhiramkrishna%26theme%3Dtokyonight-duo%26hide_border%3Dtrue" alt="GitHub Streak" width="48%" />
+</a>
+</div>
+
+<p align="center">
+<a href="https://github.com/abhiramkrishna?tab=repositories">
+<img alt="All Repositories" title="All Repositories" src="https://www.google.com/search?q=https://img.shields.io/badge/-All%2520Repos-2962FF%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite%26logo%3Dgithub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.google.com/search?q=https://github.com/abhiramkrishna%3Ftab%3Dfollowers">
+<img alt="followers" title="Follow me on Github" src="https://www.google.com/search?q=https://img.shields.io/github/followers/abhiramkrishna%3Fcolor%3D236ad3%26labelColor%3D1155ba%26style%3Dfor-the-badge%26logo%3Dperson-add%26label%3DFollow%26logoColor%3Dwhite"/>
+</a>
 </p>
