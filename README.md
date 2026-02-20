@@ -50,10 +50,10 @@ I have a Bachelor’s in <b>Economics & Media Studies</b> with experience in
 
 <div align="center">
 
-<img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhiramkrishna&show_icons=true&theme=tokyonight&hide_border=true" 
-height="170"
-/>
+<img align="right" width="38%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU3M2ZtNng0eWl3dm1pa2h5b294OXRjZ3duMzk0ZWhxZGlyemozdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif"/>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/abhiramkrishna/github-readme-stats)
 
 <img 
 src="https://streak-stats.demolab.com?user=abhiramkrishna&theme=tokyonight&hide_border=true" 
@@ -62,15 +62,5 @@ height="170"
 
 </div>
 
----
-
-<h2 align="center">📊 Most Used Languages</h2>
-
-<div align="center">
-
-<img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhiramkrishna&layout=compact&theme=tokyonight&hide_border=true" 
-height="170"
-/>
-
+[![Abhiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiramkrishna)](https://github.com/anuraghazra/github-readme-stats)
 </div>
