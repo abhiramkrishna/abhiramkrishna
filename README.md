@@ -61,6 +61,9 @@ height="170"
 />
 
 </div>
+##My Contributions
 
-[![Abhiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiramkrishna)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhiramkrishna/abhiramkrishna/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 </div>
