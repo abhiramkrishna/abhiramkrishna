@@ -11,10 +11,10 @@
 <a href="https://x.com/abhiramkriss">
 <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://www.linkedin.com/in/abhiramkrishna15/">
+<a href="https://www.linkedin.com/in/abhiramkrishna1/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/abhiram__krishna/">
+<a href="https://www.instagram.com/_abhiram__krishna_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:abhiramkrishna15@gmail.com">
