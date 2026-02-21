@@ -61,9 +61,9 @@ height="170"
 />
 
 </div>
-##My Contributions
+## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhiramkrishna/abhiramkrishna/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/abhiramkrishna/abhiramkrishna/output/github-contribution-grid-snake.svg" />
 </p>
 </div>
