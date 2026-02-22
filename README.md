@@ -59,6 +59,7 @@ height="170"
 />
 
 </div>
+![Profile Views](https://komarev.com/ghpvc/?username=abhiramkrishna&color=blue)
 <h2 align="center">
 <span style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
 🐍 My Contributions
